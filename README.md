@@ -21,5 +21,6 @@ unzip libduckdb-linux-amd64.zip
 
 ### Build
 ```
-v quackpipe.v
+v -prod quackpipe.v
 ```
+
