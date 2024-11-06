@@ -4,7 +4,7 @@
 
 # :baby_chick: vQuackpipe
 
-DuckDB Quackpipe... in [vlang](vlang.io)
+Minimal DuckDB Quackpipe... in [vlang](vlang.io)
 
 > _QuackPipe is a serverless OLAP API built on top of DuckDB
 
